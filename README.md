@@ -17,4 +17,4 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ## Link of the site
 
-(https://qr-code-generator-l9tvrq1ly-alone-ee6a.vercel.app/)
+https://qr-code-generator-l9tvrq1ly-alone-ee6a.vercel.app/
